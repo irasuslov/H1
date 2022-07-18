@@ -3,7 +3,7 @@
 
 # :sun_with_face: 
 :derelict_house: KIRYAT YAM 
-# ira.suslov77@gmail.com #
+# :email: ira.suslov77@gmail.com #
 
 # :sunflower: #
  
